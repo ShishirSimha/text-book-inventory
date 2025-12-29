@@ -1,9 +1,9 @@
 # text-book-inventory
 Textbook Inventory System: Abstract Data Type (ADT) Design
 
-Prepared by: Summer Intern
+Prepared by: Shishir Simha K
 
-Project: College Bookstore Inventory System
+Project: Bookstore Inventory System
 
 Version: 1.0
 
